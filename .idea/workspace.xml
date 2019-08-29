@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58791f7a-db59-47a6-96a5-13d3ddd3d357" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/model/Bank.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmd/ts-gen/ts-gen.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example_output.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.sum">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/nk/_jyt792j6y7f6ccjdr456gf40000gn/T/190469211/typescriptify_894772000.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.12.8/libexec" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/model/Bank.go" />
+        <option value="$PROJECT_DIR$/go.mod" />
+        <option value="$PROJECT_DIR$/cmd/ts-gen/ts-gen.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="23" />
+    <option name="width" value="1852" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ns-go" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ns-go" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ns-go" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ns-go" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ns-go" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ns-go" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v4.5.0/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="PsiViewer.ProjectComponent">
+    <option name="HIGHLIGHT" value="false" />
+    <option name="FILTER_WHITESPACE" value="false" />
+    <option name="SHOW_PROPERTIES" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="300" />
+    <option name="AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="go build ts-gen.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ns-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/ts-gen/ts-gen.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ts-gen.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/scala-client 2" value="1478159538000" />
+        <entry key="$PROJECT_DIR$/../../curalate/christian-jmh" value="1485372062000" />
+        <entry key="$PROJECT_DIR$/../../curalate/client-api" value="1485639252000" />
+        <entry key="$PROJECT_DIR$/../../curalate/clients" value="1485639353000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curacmds" value="1486076437000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-aws" value="1484962154000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-configuration" value="1485291196000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-global" value="1485194430000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-integration-testing" value="1485810797000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-logging" value="1485053786000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-monitoring" value="1478631730000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-ops-service" value="1486581198000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-quartz2" value="1490223646000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-rdb" value="1487115306000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-redis" value="1486491311000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-tasks-service" value="1488232983000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-twitter" value="1489447585000" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-utils" value="1484877084000" />
+        <entry key="$PROJECT_DIR$/../../curalate/feature-extraction" value="1487028150000" />
+        <entry key="$PROJECT_DIR$/../../curalate/finagle-tools" value="1478915031000" />
+        <entry key="$PROJECT_DIR$/../../curalate/finatra" value="1478723684000" />
+        <entry key="$PROJECT_DIR$/../../curalate/finatra-http-seed" value="1476125161000" />
+        <entry key="$PROJECT_DIR$/../../curalate/finatra-http-seed2" value="1478721761000" />
+        <entry key="$PROJECT_DIR$/../../curalate/guice-util" value="1487351544000" />
+        <entry key="$PROJECT_DIR$/../../curalate/http-ast" value="1489194692000" />
+        <entry key="$PROJECT_DIR$/../../curalate/json-jackson" value="1479772752000" />
+        <entry key="$PROJECT_DIR$/../../curalate/media-api" value="1489443854000" />
+        <entry key="$PROJECT_DIR$/../../curalate/pinsights_proxy" value="1487719786000" />
+        <entry key="$PROJECT_DIR$/../../curalate/propagating-execution-context" value="1484002254000" />
+        <entry key="$PROJECT_DIR$/../../curalate/recommendations" value="1488838187000" />
+        <entry key="$PROJECT_DIR$/../../curalate/sbt-jmh-seed" value="1485371588000" />
+        <entry key="$PROJECT_DIR$/../../curalate/sbt-plugins" value="1484247578000" />
+        <entry key="$PROJECT_DIR$/../../curalate/sbt-tests/sbtexample" value="1478106163000" />
+        <entry key="$PROJECT_DIR$/../../curalate/sbt.g8" value="1478629245000" />
+        <entry key="$PROJECT_DIR$/../../curalate/service.g8" value="1485634481000" />
+        <entry key="$PROJECT_DIR$/../../curalate/serviceg8temp" value="1489451775000" />
+        <entry key="$PROJECT_DIR$/../../curalate/tasks" value="1480443101000" />
+        <entry key="$PROJECT_DIR$/../../curalate/test" value="1485638576000" />
+        <entry key="$PROJECT_DIR$/../../curalate/test-service" value="1485998911000" />
+        <entry key="$PROJECT_DIR$/../../curalate/thrift-consumer-example" value="1478652491000" />
+        <entry key="$PROJECT_DIR$/../../curalate/thrift-utils" value="1478727576000" />
+        <entry key="$PROJECT_DIR$/../../curalate/twitter-utils" value="1484002412000" />
+        <entry key="$PROJECT_DIR$/../../curalate/zipkin-config-service" value="1484005821000" />
+        <entry key="$PROJECT_DIR$/../../external/sbt-doge" value="1489443942000" />
+        <entry key="$PROJECT_DIR$/../../external/scrooge" value="2923257334000" />
+        <entry key="$PROJECT_DIR$/../scala-tiny-types" value="1459353873000" />
+        <entry key="$PROJECT_DIR$/../similarity" value="1480813080000" />
+        <entry key="$PROJECT_DIR$/../urinals" value="1480631079000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../curalate/augmented-fresh" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/benchmark" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curacmds" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-aws" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-data-processors" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-ecs-scaling-lambda" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-elasticsearch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-logging" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-monitoring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-network-api-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-network-data-warehouse-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-network-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-products" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-rdb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-resources-lambda" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-rights" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-semantic-tagging" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-tasks-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-taxonomy-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-twitter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/curalate-web-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/domains/accounts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/forks/scala-ts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/http-driver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/jmxmp-agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/json-jackson" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/lambda.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/mining/curalate-mining" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/mining/curalate-social-miners" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/pinsights-entity-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/queue-batcher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/scala-typescript" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/scinstagram" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../curalate/tax-nlp-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../aetr" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../carlyle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../doggo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ecsv" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../finatra-extensions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../google" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../interviews" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../qb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rdb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../request-replay/scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-global" value="PREVIEW" />
+        <entry key="$USER_HOME$/stripe/interview/cassovary" value="PREVIEW" />
+        <entry key="$USER_HOME$/stripe/interview/cats" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58791f7a-db59-47a6-96a5-13d3ddd3d357" name="Default Changelist" comment="" />
+      <created>1567109876248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567109876248</updated>
+      <workItem from="1567109877612" duration="669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="669000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="23" width="1852" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="PsiViewer" />
+      <window_info anchor="right" id="make" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///var/folders/nk/_jyt792j6y7f6ccjdr456gf40000gn/T/190469211/typescriptify_894772000.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/model/Bank.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.sum">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_output.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/ts-gen/ts-gen.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
